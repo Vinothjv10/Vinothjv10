@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/c4d9a3a8bb98a17701aa1f66901db67d.gif?width=870&name=c4d9a3a8bb98a17701aa1f66901db67d.gif)] -->
 
 <h1 align="center">Hi 👋, I'm Vinoth J</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 <div align="center">
   <img style="align="right"; border="20";" alt="Coding" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 </div>
