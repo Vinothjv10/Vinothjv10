@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **AngularJS**
 
-- 👨‍💻 All of my projects are available at [https://www.nexxt.com/p/VinothJ](https://www.nexxt.com/p/VinothJ)
+- 👨‍💻 All of my projects are available at https://vinothjv.netlify.app/#](https://vinothjv.netlify.app/#)
 
 - 📝 I regularly write articles on [https://techhubreal.blogspot.com/](https://techhubreal.blogspot.com/)
 
