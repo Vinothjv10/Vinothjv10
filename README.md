@@ -1,97 +1,93 @@
 <div align="center">
-  <h1>Hi 👋, I'm Vinoth J</h1>
-  <h3>Data Engineer | Building Robust & Scalable Data Pipelines</h3>
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=Hi%20👋,%20I'm%20Vinoth%20J&fontSize=55&animation=fadeIn&theme=dark" width="100%" />
+  
+  ## ⚡ Senior Data Engineer | Data Infrastructure & Pipeline Architect
+  
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vinothjv10&label=Profile%20views&color=0e75b6&style=flat-square" alt="vinothjv10" />
-    <img src="https://img.shields.io/twitter/follow/vinoth__j?style=flat-square&logo=x&color=000" alt="vinoth__j" />
+    <a href="https://twitter.com/vinoth__j" target="blank"><img src="https://img.shields.io/twitter/follow/vinoth__j?logo=twitter&style=for-the-badge&color=0e75b6&labelColor=1c1c1c" alt="vinoth__j" /></a>
+    <a href="https://linkedin.com/in/vinoth j" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=1c1c1c" alt="linkedin" /></a>
   </p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinothjv10&theme=radical" alt="vinothjv10 trophies" /></a>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=vinothjv10&theme=radical&column=7&margin-w=15" alt="Trophies Grid" />
 </div>
----
-
-### 💫 About Me
-
-- 🔭 **Current Focus:** Optimization and development of E2E data pipelines.
-- 🌱 **Learning:** Distributed Computing & Advanced SQL.
-- 👨‍💻 **Portfolio:** Explore all of my projects at [vinothjv.netlify.app](https://vinothjv.netlify.app/#)
-- 📝 **Technical Writing:** I regularly write articles on [techhubreal.blogspot.com](https://techhubreal.blogspot.com/)
-- 💬 **Ask me about:** Python, SQL, Big Data, Cloud Data Warehouses, and ETL.
-- 📫 **How to reach me:** [vinothjv10@gmail.com](mailto:vinothjv10@gmail.com)
-- 📄 **Resume/Experience:** Check out my career journey [here](https://drive.google.com/file/d/1Nf27Wt_GyUVvASJIcS98if1Ce-fo4F0c/view?usp=sharing)
-- ⚡ **Fun fact:** I can debug code *and* make you laugh. I'm funny like that.
 
 ---
 
-### 🛠️ Data Engineering Toolkit
-
-<table>
+<table border="0" width="100%">
   <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br />Python
+    <td width="50%" valign="top">
+      <h3>格式 👤 About Me</h3>
+      <ul>
+        <li>🌱 <b>Currently Mastering:</b> Advanced Distributed Systems & Real-time Stream Processing</li>
+        <li>👨‍💻 <b>Production Architectures:</b> <a href="https://vinothjv.netlify.app/#">vinothjv.netlify.app</a></li>
+        <li>📝 <b>Data Engineering Insights:</b> <a href="https://techhubreal.blogspot.com/">techhubreal.blogspot.com</a></li>
+        <li>💬 <b>Expertise:</b> ETL/ELT Pipelines, Big Data, Warehousing, Performance Tuning</li>
+        <li>📫 <b>Drop a line:</b> <a href="mailto:vinothjv10@gmail.com">vinothjv10@gmail.com</a></li>
+        <li>📄 <b>Interactive CV:</b> <a href="https://drive.google.com/file/d/1Nf27Wt_GyUVvASJIcS98if1Ce-fo4F0c/view?usp=sharing">View Engineering Profile</a></li>
+        <li>⚡ <b>Fun Fact:</b> I keep my data structured and my jokes wild. 🚀</li>
+      </ul>
     </td>
-    <td align="center" width="100">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server" />
-      <br />SQL Server
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40" alt="Apache Eco" />
-      <br />Apache
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-      <br />Linux
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-      <br />MongoDB
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40" alt="GCP" />
-      <br />GCP
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
-      <br />AWS
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker" />
-      <br />Docker
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
-      <br />Postman
+    <td width="50%" align="center" valign="middle">
+      <img src="https://images.squarespace-cdn.com/content/v1/5bc5dd91840b1b116f39e365/1574720935547-7L3N780IDHLV12ZJBS33/Data_2.gif" width="90%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,255,255,0.2);" alt="Data Pipeline Animation" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics
+### 🛠️ Advanced Data Engineering Ecosystem
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinothjv10&show_icons=true&locale=en&layout=compact&theme=radical" alt="vinothjv10 Top Langs" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=vinothjv10&show_icons=true&locale=en&theme=radical" alt="vinothjv10 GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinothjv10&theme=radical" alt="vinothjv10 Streak Stats" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/apache_spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CE4?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/apache_kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Social Connect Hub
 
 <p align="center">
-  <a href="https://linkedin.com/in/vinoth j" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinoth j" height="30" width="40" /></a>
-  <a href="https://twitter.com/vinoth__j" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinoth__j" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/vinothjv10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vinothjv10" height="30" width="40" /></a>
-  <a href="https://instagram.com/i_m_vinoth_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_vinoth_" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/vinothjv123" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vinothjv123" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/vinothjv10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinothjv10" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vinoth j" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
+  <a href="https://codesandbox.com/vinothjv10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="35" width="45" /></a>
+  <a href="https://instagram.com/i_m_vinoth_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" /></a>
+  <a href="https://www.codechef.com/users/vinothjv123" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="35" width="45" /></a>
+  <a href="https://www.hackerrank.com/vinothjv10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="35" width="45" /></a>
 </p>
+
+---
+
+### 📊 Real-Time Cluster Metrics (Analytics)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinothjv10&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=vinothjv10&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Analytics" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinothjv10&theme=radical&hide_border=true" width="100%" alt="Contribution Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
