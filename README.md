@@ -20,7 +20,7 @@
 <!--   ✦  TROPHIES — FIXED: onedark theme, column=8  ✦                -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vinothjv10&theme=onedark&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="90%"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Vinothjv10&theme=onedark&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="90%"/>
 
 <br/><br/>
 
