@@ -4,7 +4,7 @@
 <!--   ✦  COSMIC HEADER — ANIMATED CAPSULE RENDER  ✦                  -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d0d2b,50:1a0533,100:000d1a&text=Hi%20%F0%9F%91%8B%20I%27m%20Vinoth%20J&fontSize=62&fontColor=00f5ff&animation=twinkling&fontAlignY=42&desc=%E2%9A%A1%20Data%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20DevOps%20Craftsman&descAlignY=65&descSize=19&stroke=7b2fff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d0d2b,50:1a0533,100:000d1a&text=Hi%20%F0%9F%91%8B%20I%27m%20Vinoth%20J&fontSize=62&fontColor=00f5ff&animation=twinkling&fontAlignY=42&desc=%E2%9A%A1%20Data%20Engineer%20%E2%80%A2%20MERN %20Stack%20%E2%80%A2%20Software%20Craftsman&descAlignY=65&descSize=19&stroke=7b2fff&strokeWidth=2" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!--   ✦  TYPING SVG — FIXED WORKING URL  ✦                           -->
