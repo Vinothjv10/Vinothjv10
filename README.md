@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=55&lines=%F0%9F%94%A5+Data+Engineer+%7C+Pipeline+Architect;%E2%9A%A1+AWS+%7C+Azure+%7C+GCP+Cloud+Expert;%F0%9F%90%B3+Docker+%7C+Kubernetes+%7C+DevOps+Ninja;%F0%9F%93%A6+ETL+%7C+Spark+%7C+Kafka+%7C+Airflow;%F0%9F%8C%90+MEAN+Stack+%7C+Full+Web+Developer;%F0%9F%92%BE+MongoDB+%7C+SQL+%7C+Big+Data+Expert;%F0%9F%9A%80+Always+Learning+%7C+Always+Shipping;%E2%9C%A8+I+am+funny+%E2%80%94+trust+me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=55&lines=%F0%9F%94%A5+Data+Engineer+%7C+Pipeline+Architect;%E2%9A%A1+AWS+%7C+Azure+%7C+GCP+Cloud+Expert;%F0%9F%90%B3+Docker+%7C+Kubernetes+%7C+DevOps+Ninja;%F0%9F%93%A6+ETL+%7C+Spark+%7C+Kafka+%7C+Airflow;%F0%9F%8C%90+MEAN+Stack+%7C+Full+Web+Developer;%F0%9F%92%BE+MongoDB+%7C+SQL+%7C+Big+Data+Expert;%F0%9F%9A%80+Always+Learning+%7C+Always+Shipping)](https://git.io/typing-svg)
 
 <br/>
 
