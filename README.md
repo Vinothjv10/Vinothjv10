@@ -104,22 +104,6 @@ flowchart LR
 
 ---
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinothjv10&theme=github-compact&hide_border=true&area=true&radius=8" width="100%"/>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinothjv10/vinothjv10/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinothjv10/vinothjv10/output/github-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/vinothjv10/vinothjv10/output/github-snake.svg" width="100%"/>
-</picture>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Dev Quote" width="80%"/>
   <br/><br/>
